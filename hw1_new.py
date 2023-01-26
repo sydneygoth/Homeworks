@@ -12,8 +12,7 @@ correct_ans = []
 hint = str
 
 import random
-#fdjsklfjd
-blah blah
+
 while(True):
   #  try:
         #initialize grid               
