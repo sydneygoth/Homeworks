@@ -13,6 +13,7 @@ hint = str
 
 import random
 #blah blah
+#blah agian
 while(True):
   #  try:
         #initialize grid               
